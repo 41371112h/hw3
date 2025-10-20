@@ -23,7 +23,9 @@ Google Gemini API
 8.終端機執行-先安裝npm install @google/generative-ai，再npm start  
 
 ## 範例截圖&說明
-點入右下角按鈕，開啟AI導遊視窗並輸入API key  
+### 點入右下角按鈕，開啟AI導遊視窗並輸入API key  
+
 <img width="903" height="452" alt="image" src="https://github.com/user-attachments/assets/4f53001e-d23a-4044-ab85-7966dd73cfbc" />  
-進入旅遊指南，AI導遊開始規劃美食、行程  
+### 進入旅遊指南，AI導遊開始規劃美食、行程  
+
 <img width="887" height="445" alt="image" src="https://github.com/user-attachments/assets/44632ba9-0fed-455e-9848-fdd0436dfff6" />
