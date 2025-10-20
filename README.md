@@ -8,8 +8,8 @@
 運用作業一所做的個人靜態網站，網站右下角整合了一個可以展開或收合的 AI 導遊互動面板，使用者可以輸入自己的 Google Gemini API Key，與 AI 導遊即時對話，可以在網頁中開啟聊天視窗，問AI導遊推薦的美食、景點，以獲取個人化的旅遊建議與行程規劃。
 
 ## 使用的 API
-Google Gemini API
-由 @google/generative-ai 套件提供
+Google Gemini API  
+由 @google/generative-ai 套件提供  
 模型版本：gemini-1.5-flash 或 gemini-2.5-flash
 
 ## 安裝與執行方式
