@@ -20,7 +20,7 @@ Google Gemini API
 4.AItest.tsx轉成AItest.js放入新專案src中  
 5.更改AItest.js內容，換成個人網頁的風格(白粉色系)及調整大小  
 6.將index.html拆分成三個檔案.html/.css/.js  
-7.在App.css中調整版面大小，設計AI導遊視窗按鈕
+7.在App.css中調整版面大小，設計AI導遊視窗按鈕  
 8.終端機執行-先安裝npm install @google/generative-ai，再npm start  
 
 ## 範例截圖&說明
